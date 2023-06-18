@@ -22,7 +22,7 @@ GoTasted
 
 ## Product Backlog
 
-### *[F-26](https://trello.com/b/suYPSWGK/f-26-sprint-1)***
+### ***[F-26](https://trello.com/b/suYPSWGK/f-26-sprint-1)***
 
 ## Ürün Bilgilendirmesi
 
