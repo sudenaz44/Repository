@@ -1,5 +1,4 @@
-# Repository
-F-26 Bootcamp
+
 ![6352aa8a-5f48-47dd-a424-265eb29af99f](https://github.com/DogukanBayhan/Repository/assets/120603638/cb635e72-3ed9-4235-bab4-65c7694e4d23)
 
 
