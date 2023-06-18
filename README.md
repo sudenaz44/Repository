@@ -30,6 +30,8 @@ GoTasted
 
 ## Hedef Kitle
 
+ Gurmeler, Sokak ve yerel lezzet meraklıları. Üniversite öğrencileri, Aileler.
+
 
 # Sprint - 1
 
@@ -37,13 +39,18 @@ GoTasted
 
 - *Puan tamamlama mantığı*:
 
-- *Sprint board update*:
+- *Sprint board update*: ![WhatsApp Image 2023-06-18 at 21 51 03](https://github.com/sudenaz44/Repository/assets/120420389/d8957144-90e6-4b87-9046-d36317e4219c)
+![image](https://github.com/sudenaz44/Repository/assets/120420389/ae46096f-5414-4132-a818-da0cdc53f74b)
+
 
 - *Ürün Durumu*:
 
-- *Sprint Review*: 
+- *Sprint Review*: Alınan kararlar: görev dağılımı belirlendi. sayfaların tasarımı çıkarıldı. herkese eşit kodlama için sayfalar dağıtıldı. herkes sayfalarını yazmaya başladı. 
 
 - *Sprint Retrospective:*
+- Roller ile ilgili düzenleme yapılmıştır.
+-Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+-Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 
 # Sprint - 2
