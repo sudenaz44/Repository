@@ -56,26 +56,29 @@ GoTasted
 
 # Sprint - 2
 
-- *Sprint içinde tamamlanması tahmin edilen puan*: 
+- *Sprint içinde tamamlanması tahmin edilen puan*: 100
 
-- *Puan tamamlama mantığı*:
+- *Puan tamamlama mantığı*: 3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
-- *Sprint board update*:
+- *Sprint board update*:    Sprint board screenshotları:
+- 
 
-- *Ürün Durumu*:
+- *Ürün Durumu*:   Ekran görüntüleri:
 
-- *Sprint Review*: 
+- *Sprint Review*: Alınan kararlar: 
 
-- *Sprint Retrospective:*
+- *Sprint Retrospective:*  Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 
 # Sprint - 3
 
 - *Sprint içinde tamamlanması tahmin edilen puan*: 
 
-- *Puan tamamlama mantığı*:
+- *Puan tamamlama mantığı*:  
 
 - *Sprint board update*:
+
+- 
 
 - *Ürün Durumu*:
 
