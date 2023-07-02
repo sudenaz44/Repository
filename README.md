@@ -40,7 +40,7 @@ GoTasted
 - *Puan tamamlama mantığı*: 3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
 - *Sprint board update*: ![WhatsApp Image 2023-06-18 at 21 51 03](https://github.com/sudenaz44/Repository/assets/120420389/d8957144-90e6-4b87-9046-d36317e4219c)
-![image](https://github.com/sudenaz44/Repository/assets/120420389/ae46096f-5414-4132-a818-da0cdc53f74b)
+
 
 
 - *Ürün Durumu*: tasarımlar yapılmıştır:
