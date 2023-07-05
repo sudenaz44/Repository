@@ -67,9 +67,9 @@ GoTasted
 
 - *Ürün Durumu*:   Ekran görüntüleri:
 
-- *Sprint Review*: Alınan kararlar: 
+- *Sprint Review*: Alınan kararlar: Bayram sonrası için ekip halinde daha aktif olmak ve toplantı sıklığını arttırmak. Frontend ve Backend'i bu sprint içinde bitirip ürünü hayata geçirmek.
 
-- *Sprint Retrospective:*  Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+- *Sprint Retrospective:*  Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. 
 
 
 # Sprint - 3
