@@ -60,12 +60,20 @@ GoTasted
 
 - *Puan tamamlama mantığı*: 3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
-- *Sprint board update*:    Sprint board screenshotları:
+- *Sprint board update*:    Sprint board screenshotları: 
 
 - *Daily Scrum*: [Daily Scrums (1).docx](https://github.com/sudenaz44/Repository/files/11930828/Daily.Scrums.1.docx)
 
 
 - *Ürün Durumu*:   Ekran görüntüleri:
+- ![Screenshot_1688467994](https://github.com/sudenaz44/Repository/assets/120420389/e2ab6620-4318-4d93-9291-13817e3d8618)
+![WhatsApp Image 2023-07-06 at 15 15 51](https://github.com/sudenaz44/Repository/assets/120420389/5c67124a-0071-40c4-9acd-22b0447a37ba)
+![WhatsApp Image 2023-07-06 at 15 17 04](https://github.com/sudenaz44/Repository/assets/120420389/ead3b118-b306-4f23-933d-006fa84b30b0)
+![WhatsApp Image 2023-07-06 at 15 15 51 (4)](https://github.com/sudenaz44/Repository/assets/120420389/e910dd2d-74db-4780-8351-8dac48b646b5)
+![WhatsApp Image 2023-07-06 at 15 15 51 (2)](https://github.com/sudenaz44/Repository/assets/120420389/01cfceac-3457-476d-bd41-472304f58a67)
+![WhatsApp Image 2023-07-06 at 15 15 51 (1)](https://github.com/sudenaz44/Repository/assets/120420389/bc6f0d64-659b-416b-8709-738abbea6710)
+
+
 
 - *Sprint Review*: Alınan kararlar: Bayram sonrası için ekip halinde daha aktif olmak ve toplantı sıklığını arttırmak. Frontend ve Backend'i bu sprint içinde bitirip ürünü hayata geçirmek.
 
