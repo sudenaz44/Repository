@@ -60,7 +60,8 @@ GoTasted
 
 - *Puan tamamlama mantığı*: 3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
-- *Sprint board update*:    Sprint board screenshotları: 
+- *Sprint board update*:    Sprint board screenshotları: ![WhatsApp Image 2023-07-06 at 15 36 01](https://github.com/sudenaz44/Repository/assets/120420389/a524c96e-7607-47f4-904f-2d8464287787)
+
 
 - *Daily Scrum*: [Daily Scrums (1).docx](https://github.com/sudenaz44/Repository/files/11930828/Daily.Scrums.1.docx)
 
@@ -82,9 +83,9 @@ GoTasted
 
 # Sprint - 3
 
-- *Sprint içinde tamamlanması tahmin edilen puan*: 
+- *Sprint içinde tamamlanması tahmin edilen puan*: 300 puan
 
-- *Puan tamamlama mantığı*:  
+- *Puan tamamlama mantığı*:   3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
 - *Sprint board update*:
 
