@@ -87,12 +87,15 @@ GoTasted
 
 - *Puan tamamlama mantığı*:   3 sprintten oluşacak olan projemiz için her sprintte 100 puanlık kısımı tamamalamayı hedefliyoruz.
 
-- *Sprint board update*:
+- *Sprint board update*:Sprint board screenshotları:
 
 - 
+
+- Daily Scrum : [Daily Scrums.docx](https://github.com/sudenaz44/Repository/files/12052215/Daily.Scrums.docx)
+
 
 - *Ürün Durumu*:
 
 - *Sprint Review*: 
 
-- *Sprint Retrospective:*
+- *Sprint Retrospective:*Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
