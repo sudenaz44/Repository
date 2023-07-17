@@ -95,6 +95,6 @@ GoTasted
 
 - *Ürün Durumu*:https://www.youtube.com/watch?v=BB2ItkmNZBk
 
-- *Sprint Review*: Alınan kararlar:
+- *Sprint Review*: Alınan kararlar:Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. firebase kısmı sayfaları birleştirmede eksik olunduğu görülmüştür.
 
 - *Sprint Retrospective:*Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
