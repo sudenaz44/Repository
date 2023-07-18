@@ -98,3 +98,5 @@ GoTasted
 - *Sprint Review*: Alınan kararlar:Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. firebase kısmı sayfaları birleştirmede eksik olunduğu görülmüştür.
 
 - *Sprint Retrospective:*Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+- 
